@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](assets/HTML5.png)
+![](./assets/HTML5.png)
 
 <!--
 **javi-profe/javi-profe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
